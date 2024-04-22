@@ -1,8 +1,0 @@
-removeStrategy:
-  rbac: SYNC
-  items: NONE
-items:
-  - kind: "folder"
-    name: "folder-1"
-    displayName: "Folder 1"
-    description: "This is Folder 1"
