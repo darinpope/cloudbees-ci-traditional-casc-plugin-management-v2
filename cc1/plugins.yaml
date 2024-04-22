@@ -121,6 +121,3 @@ plugins:
 - id: workflow-scm-step
 - id: workflow-step-api
 - id: workflow-support
-- id: pipeline-event-step
-- id: cloudbees-request-filter
-- id: pipeline-utility-steps
