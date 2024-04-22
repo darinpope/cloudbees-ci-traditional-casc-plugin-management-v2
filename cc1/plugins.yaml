@@ -124,4 +124,3 @@ plugins:
 - id: pipeline-event-step
 - id: cloudbees-request-filter
 - id: pipeline-utility-steps
-  url: https://updates.jenkins.io/download/plugins/pipeline-utility-steps/2.16.1/pipeline-utility-steps.hpi
