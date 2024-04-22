@@ -1,0 +1,1 @@
+# cloudbees-ci-traditional-casc-plugin-management-v2
