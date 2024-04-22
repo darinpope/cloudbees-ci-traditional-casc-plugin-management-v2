@@ -1,3 +1,6 @@
 removeStrategy:
   rbac: SYNC
 groups:
+  - name: administer
+    permissions:
+      - hudson.model.Hudson.Administer
