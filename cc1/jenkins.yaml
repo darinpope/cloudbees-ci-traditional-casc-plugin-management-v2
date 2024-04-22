@@ -57,8 +57,6 @@ beekeeper:
   upgrades:
     autoDowngradePlugins: false
     autoUpgradePlugins: true
-notificationConfiguration:
-  enabled: false
 license:
   certificate: |
     -----BEGIN CERTIFICATE-----
