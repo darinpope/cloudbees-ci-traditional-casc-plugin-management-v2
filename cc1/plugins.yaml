@@ -117,6 +117,7 @@ plugins:
 - id: workflow-cps-checkpoint
 - id: workflow-durable-task-step
 - id: workflow-job
+- id: pipeline-event-step
 - id: workflow-multibranch
 - id: workflow-scm-step
 - id: workflow-step-api
